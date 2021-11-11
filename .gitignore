@@ -30,6 +30,9 @@ chrome-profiler-events*.json
 !.vscode/extensions.json
 .history/*
 
+# Text Editor - VIM
+/.vim
+
 # misc
 /.angular/cache
 /.sass-cache
